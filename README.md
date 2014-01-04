@@ -1,0 +1,4 @@
+nrr
+===
+
+Mean reciprocal rank
